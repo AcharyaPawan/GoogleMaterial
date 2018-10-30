@@ -13,7 +13,8 @@
             android:background="@color/colorPrimary"
             android:id="@+id/My_toolbar"
             app:title="Material Tutorials"
-            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+            app:titleTextColor="@color/white"
+            android:theme="@style/ThemeOverlay.AppCompat.Light"
 
     />
     <TextView
